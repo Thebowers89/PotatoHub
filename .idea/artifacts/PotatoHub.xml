@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PotatoHub">
+    <output-path>$PROJECT_DIR$/out/artifacts/PotatoHub</output-path>
+    <root id="archive" name="PotatoHub.jar">
+      <element id="module-output" name="PotatoHub" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

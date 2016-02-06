@@ -1,0 +1,7 @@
+name: PotatoHub
+main: PotatoHubMain.PotatoHub
+version: 1.0
+commands:
+    hubmenu:
+        usage:
+        commands:
